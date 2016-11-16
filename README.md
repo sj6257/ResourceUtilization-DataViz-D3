@@ -1,4 +1,4 @@
-# Resource Production Vs Consumption Visualizaion using D3 Libray
+# World's resource production and consumption Visualizaion using D3 Library
 
 This project provides exploratory visualization to analyze energy production and consumption data from around the world.
 
